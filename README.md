@@ -4,5 +4,5 @@ or
 
     $ python3 -m venv .venv
     $ . .venv/bin/activate
-    $ pip install .
+    $ pip3 install .
     $ python3 hello.py 
